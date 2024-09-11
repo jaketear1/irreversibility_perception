@@ -2,13 +2,13 @@
 
 This repo comprises the code for my Master's thesis: "Irreversibility of EEG Data in Perceptual Decision Making" defended July 30th, 2024 at Universitat Pompeu Fabra, supervised by Dr. Gustavo Deco.
 
-It's not the prettiest, but when I began this thesis I didn't know how to code or use git.
+It's not perfect, but when I began this in January 2024 I didn't know how to code or use git.
 
-Thesis is attached. 
+Thesis attached. Please read thesis before the code.
 
 ## Navigating the folders
 ### data/
-This folder contains 
+This folder contains the behavioral and EEG data from the visual discrimination task of [Beerendonk et al., 2024]([url](https://www.pnas.org/doi/full/10.1073/pnas.2312898121)). It also contains FowRev_long_26to89_tau5.mat, FowRev_long_26to89_tau5.mat, FowRev_long_26to89_tau5.mat, and FowRev_long_26to89_tau5.mat
 
 
 
