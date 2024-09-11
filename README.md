@@ -1,6 +1,6 @@
 # irreversibility_perception
 
-This repo comprises the code for my Master's thesis: "Irreversibility of EEG Data in Perceptual Decision Making" defended July 30th, 2024 at Universitat Pompeu Fabra, supervised by Dr. Gustavo Deco.
+This repo comprises the code for my Master's thesis: "Irreversibility of EEG Data in Perceptual Decision Making" defended July 30th, 2024, supervised by Dr. Gustavo Deco.
 
 It's not perfect, but when I began this in January 2024 I didn't know how to code or use git.
 
