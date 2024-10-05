@@ -17,7 +17,7 @@ This folder contains the behavioral and EEG data from the visual discrimination 
 3) simulations.ipynb, used to compare irreversibility values computed over simulated EEG data with varying oscillatory schemes, added noise, amplitude changes, as well as with phase lag vs. phase synchrony.
 
 ### results/
-Contains the figures used in my thesis. Will house editable SVG files for the figures of the paper we are preparing.
+Contains the figures I used plus my thesis defense powerpoint. Will house SVG files for the figures of the paper we are preparing.
 
 ### src/
 This is a placeholder, but shows I now recognize the value of separating functions from notebooks.
