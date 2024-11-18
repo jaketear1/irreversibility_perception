@@ -2,7 +2,7 @@
 
 This repo comprises the code for my Master's thesis: "Irreversibility of EEG Data in Perceptual Decision Making", defended July 30th, 2024, supervised by Dr. Gustavo Deco.
 
-It's not perfect, but when I began in January 2024 I didn't really know how to organize all this stuff.
+It's far from perfect, but when I began in January 2024 I didn't know how to organize this at all.
 
 Thesis attached. Please read thesis before the code.
 
