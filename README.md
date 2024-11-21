@@ -2,7 +2,7 @@
 
 This repo comprises the code for my Master's thesis: "Irreversibility of EEG Data in Perceptual Decision Making", defended July 30th, 2024, supervised by Dr. Gustavo Deco.
 
-It's not perfect, but when I began in January 2024 I didn't really know how to organize all this stuff.
+It's far from perfect, but when I began in January 2024 I didn't know how to organize this at all.
 
 Thesis attached. Please read thesis before the code.
 
@@ -18,7 +18,7 @@ This folder contains the behavioral and preprocessed EEG data from the visual di
 4) clean_analysis_dataset1, as we honed the results for the paper we are preparing, we will test with 2 different datasets. I wanted a clean version of the analysis for each dataset.
 
 ### results/
-Contains the figures used in my thesis. Will house editable SVG files for the figures of the paper we are preparing.
+Contains the figures I used plus my thesis defense powerpoint. Will house SVG files for the figures of the paper we are preparing.
 
 ### src/
 I now recognize the value of separating functions from notebooks, but didn't originally implement this for my thesis.
