@@ -15,7 +15,7 @@ This folder contains the behavioral and preprocessed EEG data from the visual di
 1) exploratory_analysis.ipynb, used to replicate the pupil bin X perceptual sensitivity (d') graph in Beerendonk et al., 2024, as well as adapting the binning procedure for irreversibility, 1/f slope, alpha power, and other values to make comparisons. Contains exploratory analysis, scatterplots, statistical tests, and visualizations. 
 2) computing_irrev.ipynb, used to compute irreversibility, alpha power, 1/f slope, and sample entropy values, creating those corresponding files of the data/ folder.
 3) simulations.ipynb, used to compare irreversibility values computed over simulated EEG data with different oscillatory parameters, added noise, amplitude changes, as well as with varying phase lag vs. phase synchrony.
-4) clean_analysis_dataset1, as we honed the results for the paper we are preparing, we will test with 2 different datasets. I wanted a clean version of the analysis for each dataset.
+4) clean_analysis_dataset1, as we hone the results for the paper we are preparing, we will test with 2 different datasets. I wanted a clean version of the analysis for each dataset.
 
 ### results/
 Contains the figures I used plus my thesis defense powerpoint. Will house SVG files for the figures of the paper we are preparing.
