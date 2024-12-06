@@ -69,6 +69,7 @@ def run_model_irrevbin(x, deg, var):
     model = sm.OLS(x[var], xp).fit()
     return model.params[deg]
 
+
 def run_model_alphabin(x, deg, var):
     poly_feat = PolynomialFeatures(degree=deg)
     xp = poly_feat.fit_transform(x['alpha_bin'].to_numpy().reshape(-1,1))
@@ -81,4 +82,13 @@ def run_model_bin(x, deg, var):
     model = sm.OLS(x[var], xp).fit()
     return model.params[deg]
 
+def remove_top_percentile(dataframe, column, percentile):
+    # Calculate the threshold for the specified top percentile
+    threshold = dataframe[column].quantile(percentile)
+    
+    # Set values above the threshold to NaN
+    modified_dataframe = dataframe.copy()
+    modified_dataframe = modified_dataframe[modified_dataframe[column] < threshold]
+    
+    return modified_dataframe
 
